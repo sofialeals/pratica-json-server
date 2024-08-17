@@ -1,0 +1,15 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "Wagner",
+      "idade": "32"
+    },
+    {
+      "id": "2",
+      "nome": "lucas",
+      "idade": "20"
+    }
+  ],
+  "mensagens": []
+}
